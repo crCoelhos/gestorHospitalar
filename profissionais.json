@@ -1,26 +1,26 @@
 [
     {
         "id": 4,
-        "nomeProfissional": "Ana Beatriz",
+        "nome": "Ana Beatriz",
         "conselho": "6545",
-        "clinicaMedica": "Chora Agora e Rí Depois"
+        "clinica": "Chora Agora e Rí Depois"
     },
     {
         "id": 5,
-        "nomeProfissional": "Carla Daiana",
+        "nome": "Carla Daiana",
         "conselho": "5557",
-        "clinicaMedica": "Desejo de Menina"
+        "clinica": "Desejo de Menina"
     },
     {
         "id": 6,
-        "nomeProfissional": "Erico Fernando",
+        "nome": "Erico Fernando",
         "conselho": "7775",
-        "clinicaMedica": "Calcinha Preta"
+        "clinica": "Calcinha Preta"
     },
     {
         "id": 7,
-        "nomeProfissional": "Gustavo Henrique",
+        "nome": "Gustavo Henrique",
         "conselho": "admin",
-        "clinicaMedica": "Médica Clinica"
+        "clinica": "Médica Clinica"
     }
 ]
