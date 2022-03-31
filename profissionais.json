@@ -1,0 +1,20 @@
+[
+    {
+        "id": 4,
+        "nomeProfissional": "Ana Beatriz",
+        "conselho": "admin",
+        "clinicaMedica": "Sim"
+    },
+    {
+        "id": 5,
+        "nomeProfissional": "Ana Beatriz",
+        "conselho": "admin",
+        "clinicaMedica": "Sim"
+    },
+    {
+        "id": 6,
+        "nomeProfissional": "Ana Beatriz",
+        "conselho": "admin",
+        "clinicaMedica": "Sim"
+    }
+]
